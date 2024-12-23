@@ -14,7 +14,7 @@ A real-time social media platform with posts, comments and likes.
 - **Tech Stack**: React, Node.js, Express, MongoDB, Cloudinary
 - [Live Demo]([https://socialmedia.example.com](https://clubhouse-79wp.onrender.com/))
   
-### [Images and videos storing app]([https://github.com/Roh1512/clubhouse](https://github.com/Roh1512/image-backup))
+### [Images and videos storing app](https://github.com/Roh1512/image-backup)
 A web based app to store our images and videos in the cloud
 
 - **Tech Stack**: React, Node.js, Express, MongoDB, Cloudinary
