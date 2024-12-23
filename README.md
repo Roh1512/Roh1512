@@ -4,6 +4,15 @@
 - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 -  **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 -  **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+-  **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+
+## 🔥 Featured Projects
+### [Social Media App](https://github.com/Roh1512/clubhouse)
+A real-time social media platform with posts, comments, and WebSocket-based chat.
+
+- **Tech Stack**: React, Node.js, Express, MongoDB
+- [Live Demo](https://socialmedia.example.com)
 
 <!--
 **Roh1512/Roh1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
