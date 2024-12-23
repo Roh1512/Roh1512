@@ -14,13 +14,13 @@ I'm a passionate Software Engineer specializing in **MERN Stack** and **Python b
 A real-time social media platform with posts, comments and likes.
 
 - **Tech Stack**: React, Node.js, Express, MongoDB, Cloudinary
-- [Live Demo]([https://socialmedia.example.com](https://clubhouse-79wp.onrender.com/))
+- [Live Demo](https://clubhouse-79wp.onrender.com)
   
 ### [Images and videos storing app](https://github.com/Roh1512/image-backup)
 A web based app to store our images and videos in the cloud
 
 - **Tech Stack**: React, Node.js, Express, MongoDB, Cloudinary
-- [Live Demo]([https://socialmedia.example.com](https://clubhouse-79wp.onrender.com/))
+- [Live Demo](https://image-backup.onrender.com)
 
 ## 🌱 Learning Goals
 - Mastering CI/CD pipelines with GitHub Actions.
