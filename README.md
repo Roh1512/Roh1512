@@ -41,7 +41,7 @@ A web based app to store our images and videos in the cloud
 - Mastering CI/CD pipelines with GitHub Actions.
 - Expanding my knowledge of **cloud computing** (AWS, Azure).
 
-## My Interest
+## My Interests
 - **Computer Vision**: Creating intelligent systems to interpret and process visual data.
 - **Augmented Reality**: Developing immersive AR applications.
 - **Robotics**: Combining software with mechanical systems to automate tasks.
