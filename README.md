@@ -28,7 +28,14 @@ A web based app to store our images and videos in the cloud
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roh1512&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roh1512&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roh1512&layout=compact&theme=cobalt)
+
+
+## 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rohith-ashok1512/)  
+- [Portfolio](https://not-yet-done)  
+- [Email](mailto:rohith1512a@gmail.com)  
 
 <!--
 **Roh1512/Roh1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
