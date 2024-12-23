@@ -36,7 +36,7 @@ A web based app to store our images and videos in the cloud
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rohith-ashok1512/)  
-- [Portfolio](https://not-yet-done)  
+<!-- - [Portfolio](https://not-yet-done)  --> 
 - [Email](mailto:rohith1512a@gmail.com)  
 
 <!--
