@@ -26,7 +26,7 @@ I'm a passionate Software Engineer specializing in **MERN Stack** and **Python b
 
 ## 🔥 Featured Projects
 ### [Social Media App](https://github.com/Roh1512/clubhouse)
-A real-time social media platform with posts, comments and likes.
+A social media platform with posts, comments and likes.
 
 - **Tech Stack**: React, Node.js, Express, MongoDB, Cloudinary
 - [Live Demo](https://clubhouse-79wp.onrender.com)
