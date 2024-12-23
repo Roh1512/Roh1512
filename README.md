@@ -13,6 +13,7 @@ I'm a passionate Software Engineer specializing in **MERN Stack** and **Python b
 -  **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 
+
 ## 🔥 Featured Projects
 ### [Social Media App](https://github.com/Roh1512/clubhouse)
 A real-time social media platform with posts, comments and likes.
