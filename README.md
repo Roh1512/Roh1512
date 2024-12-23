@@ -20,6 +20,16 @@ A web based app to store our images and videos in the cloud
 - **Tech Stack**: React, Node.js, Express, MongoDB, Cloudinary
 - [Live Demo]([https://socialmedia.example.com](https://clubhouse-79wp.onrender.com/))
 
+## 🌱 Learning Goals
+- Mastering CI/CD pipelines with GitHub Actions.
+- Expanding my knowledge of **cloud computing** (AWS, Azure).
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roh1512&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roh1512&layout=compact&theme=radical)
+
 <!--
 **Roh1512/Roh1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
