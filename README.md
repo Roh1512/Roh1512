@@ -12,6 +12,13 @@ I'm a passionate Software Engineer specializing in **MERN Stack** and **Python b
 -  **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 -  **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
+  ### **UI/UX Design**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?logo=adobexd&logoColor=white)
+![User Research](https://img.shields.io/badge/-User%20Research-000000?logo=read-the-docs&logoColor=white)
+![Prototyping](https://img.shields.io/badge/-Prototyping-FF9900?logo=sketch&logoColor=white)
+![Usability Testing](https://img.shields.io/badge/-Usability%20Testing-4285F4?logo=google&logoColor=white)
+
 
 
 ## 🔥 Featured Projects
