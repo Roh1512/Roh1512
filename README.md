@@ -5,7 +5,7 @@ I'm a passionate Software Engineer specializing in **MERN Stack** and **Python b
 ## 🚀 Skills and Tools
 
 ### Programming Languages
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-3776AB?logo=SQL&logoColor=white)
 
 ### Software development
 -  **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-black?logo=remix&logoColor=white)
