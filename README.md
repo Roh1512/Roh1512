@@ -3,6 +3,8 @@
 I'm a passionate Software Engineer specializing in **MERN Stack** and **Python backend development**. I love building scalable web apps and solving real-world problems with clean, efficient code. 🌟
 
 ## 🚀 Skills and Tools
+
+###Languages
 - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 -  **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-black?logo=remix&logoColor=white)
 -  **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
