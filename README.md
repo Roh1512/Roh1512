@@ -54,6 +54,20 @@ A simple front end only website to type in and generate a simple resume
 - **Tech Stack**: React
 - [Live Demo](https://cvgeneratorapp-roh.netlify.app)
 
+### [Memory card game](https://github.com/Roh1512/MemoryGame)
+
+A web based game. Do not click on the same card twice.
+
+- **Tech Stack**: React
+- [Live Demo](https://memory-card-game123.netlify.app)
+
+### [Weather App](https://github.com/Roh1512/WeatherApp)
+
+A web based Weather App to search for a place and get the weather condtions there
+
+- Build using vanilla javascript
+- [Live Demo](https://roh1512.github.io/WeatherApp)
+
 ## 🌱 Learning Goals
 
 - Mastering CI/CD pipelines with GitHub Actions.
