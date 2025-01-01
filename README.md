@@ -40,6 +40,13 @@ A web based app to store our images and videos in the cloud
 - **Tech Stack**: React, Node.js, Express, MongoDB, Cloudinary
 - [Live Demo](https://image-backup.onrender.com)
 
+### [Real time chat application](https://github.com/Roh1512/chat_app_chatty)
+
+A web based real time chat application to chat with registered users
+
+- **Tech Stack**: React, Node.JS, Express, MongoDB, Cloudinary, zustand
+- [Live Demo](https://chat-app-chatty-3jaa.onrender.com/)
+
 ## 🌱 Learning Goals
 
 - Mastering CI/CD pipelines with GitHub Actions.
