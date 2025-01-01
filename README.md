@@ -68,6 +68,12 @@ A web based Weather App to search for a place and get the weather condtions ther
 - Build using vanilla javascript
 - [Live Demo](https://roh1512.github.io/WeatherApp)
 
+### [Drum Kit](https://github.com/Roh1512/Drum-Kit)
+
+A simple drum kit app build with HTML, CSS and javascript
+
+- [Live Demo](https://roh1512.github.io/Drum-Kit)
+
 ## 🌱 Learning Goals
 
 - Mastering CI/CD pipelines with GitHub Actions.
