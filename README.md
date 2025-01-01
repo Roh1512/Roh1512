@@ -47,6 +47,13 @@ A web based real time chat application to chat with registered users
 - **Tech Stack**: React, Node.JS, Express, MongoDB, Cloudinary, zustand
 - [Live Demo](https://chat-app-chatty-3jaa.onrender.com/)
 
+### [CV Generator](https://github.com/Roh1512/CV-App)
+
+A simple front end only website to type in and generate a simple resume
+
+- **Tech Stack**: React
+- [Live Demo](https://cvgeneratorapp-roh.netlify.app)
+
 ## 🌱 Learning Goals
 
 - Mastering CI/CD pipelines with GitHub Actions.
