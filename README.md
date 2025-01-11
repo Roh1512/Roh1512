@@ -10,7 +10,7 @@ I'm a passionate Software Engineer specializing in **MERN Stack** and **Python b
 
 #### Software development
 
-- **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=blue) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-black?logo=remix&logoColor=white)
+- **Frontend**: ![React](https://img.shields.io/badge/-React-f0f1f2?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-black?logo=remix&logoColor=white)
 - **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 - **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
