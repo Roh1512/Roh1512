@@ -6,7 +6,7 @@ I'm a passionate Software Engineer specializing in **MERN Stack** and **Python b
 
 #### Programming Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![JavaScript](https://img.shields.io/badge/-TypeScript-3776AC?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![JavaScript](https://img.shields.io/badge/-TypeScript-3675d9?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-edf1f7?logo=python&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-036e13?logo=sql&logoColor=white)
 
 #### Software development
 
