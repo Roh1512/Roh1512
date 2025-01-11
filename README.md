@@ -19,7 +19,7 @@ I'm a passionate Software Engineer specializing in **MERN Stack** and **Python b
 - Responsive web design
 - Mobile application UI design
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-  ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?logo=adobexd&logoColor=white)
+  ![Adobe XD](https://img.shields.io/badge/-AdobeXD-380227?logo=adobexd&logoColor=pink)
   ![User Research](https://img.shields.io/badge/-User%20Research-000000?logo=read-the-docs&logoColor=white)
   ![Prototyping](https://img.shields.io/badge/-Prototyping-FF9900?logo=sketch&logoColor=white)
   ![Usability Testing](https://img.shields.io/badge/-Usability%20Testing-4285F4?logo=google&logoColor=white)
