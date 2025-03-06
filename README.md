@@ -26,6 +26,13 @@ I'm a passionate Software Engineer specializing in **MERN Stack** and **Python b
 
 ## 🔥 Featured Projects
 
+### [Sole Store Ecommerce Application](https://github.com/Roh1512/solestore-ecommerce)
+
+SoleStore is an e-commerce application built using FastAPI for the backend and React for the frontend. This platform allows users to browse and purchase a wide variety of foot wears and shoes, while providing admins with robust tools to manage the platform.
+
+- **Tech Stack**: React,Redux Toolkit, TailwindCSS, DaisyUI, Lucid React, FastAPI, MongoDB, Cloudinary
+- [Live Demo](https://solestore-ecommerce-3e19.onrender.com)
+
 ### [Social Media App](https://github.com/Roh1512/clubhouse)
 
 A social media platform with posts, comments and likes.
